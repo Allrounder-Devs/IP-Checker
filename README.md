@@ -1,8 +1,7 @@
 # IP-Checker
-Lasse dir Informationen über eine IP anzeigen.
+Show information about an IP.
 
 
-
-Wenn nicht vorhanden installiere dir `requests`.
+If not available, install `requests`.
 
 `pip3 install requests`
