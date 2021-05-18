@@ -23,7 +23,7 @@ location = requests.get("https://ipinfo.io/{}/loc".format(ip)).text
 print("IP: "+ip)
 print("Land: "+country)
 print("Stadt: "+city)
-print("Bundesland: "+region)
+print("Bundesstaat: "+region)
 print("PLZ: "+postal)
 print("Zeitzone: "+timezone)
 print("Anbieter: "+orgination)
